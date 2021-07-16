@@ -54,6 +54,7 @@ const USERS = Object.entries(users)
 
 console.log(USERS);
 
+
 // for(let i=0; i<USERS.length; i++) {
 //     if(points >= 50){
 //         return 'points: more than 50'
